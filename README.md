@@ -232,13 +232,9 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 **Burak**
-- Data Analyst at Gerilim Enerji
+- Database Analyst at Gerilim Enerji
 - Industrial Engineering Graduate, Yaşar University
 - Pursuing MSc in Data Science
-
-📧 Email: [your-email]
-💼 LinkedIn: [your-linkedin]
-🐙 GitHub: [your-github]
 
 ---
 
